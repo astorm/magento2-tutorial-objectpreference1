@@ -4,6 +4,6 @@ class English implements MessageHolderInterface
 {
     public function getHelloMessage()
     {
-        return 'Hello chap!';
+        return 'Hello!';
     }
 }
